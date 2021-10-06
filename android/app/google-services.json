@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "892576757019",
+    "project_id": "ecommerce-app-3b95f",
+    "storage_bucket": "ecommerce-app-3b95f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892576757019:android:bc00c512ee999380b04fbe",
+        "android_client_info": {
+          "package_name": "com.emejia.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892576757019-p6tju6j098t3l0ko960k77v14rgqvguv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFcetB4uTvEr2lEPFLkL3S7J0HgYz-dEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892576757019-p6tju6j098t3l0ko960k77v14rgqvguv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892576757019-sdqarsbv1bs6h2a7m7fbvrjko6p33vdn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emejia.ecommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
